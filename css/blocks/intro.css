@@ -1,0 +1,33 @@
+.intro {
+    margin-top: 250px;
+}
+
+
+
+
+
+.title {
+    font-family: 'Manrope';
+        font-weight: 800;
+        font-size: 72px;
+        line-height:98px;
+        color: #18191F;
+        max-width: 540px;
+
+}
+
+.subtitle {
+    font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 32px;
+        margin-top: 16px;
+        min-width:540px;
+        color: #18191F;
+}
+
+.phone {
+    margin-left: 38px;
+    display: block;
+}
